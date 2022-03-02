@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **gyullo18/gyullo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +15,10 @@ Here are some ideas to get you started:
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gyullo18)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyullo18&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+# Career
+-------------------------------------------
+국제 직업전문학교 - Ai 융합 컨텐츠 교육 (2022)
+광주인공지능사관학교 2기 (2021)
