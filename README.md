@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 # Career
 - 국제 직업전문학교 - Ai 융합 컨텐츠 교육 (2022)
   * Dodge : 3D 총알피하기
-  * Unirun : 2D 런게임
-  * Mojak : 2D 비행 슈팅 게임
+  * Unirun : 2D 런
+  * Mojak : 2D 비행 슈팅
+  * ZombieSurvival : 3D 서바이벌
 
 - 광주인공지능사관학교 2기 (2021)
