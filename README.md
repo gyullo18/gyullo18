@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 
 # Career
 - 국제 직업전문학교 - Ai 융합 컨텐츠 교육 (2022)
-  * Dodge : 3D 총알피하기
-  * Unirun : 2D 런
-  * Mojak : 2D 비행 슈팅
+  * Dark Rogue : 할로우 나이트 모작 프로젝트 > 역할 : 플레이어 제어 및 스킬 구현  
+  * Mojak : 2D 비행 슈팅 게임 모작
   * ZombieSurvival : 3D 서바이벌
+  * Unirun : 2D 런
+  * Dodge : 3D 총알피하기
 
 - 광주인공지능사관학교 2기 (2021)
