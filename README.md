@@ -24,9 +24,13 @@ Here are some ideas to get you started:
   ### GameDEV
   * Dark Rogue : 할로우 나이트 모작 프로젝트 
      > 역할 : https://github.com/GameDevelopers/Player 
-  * Mojak : 2D 비행 슈팅 게임 모작
+  * Mojak : 2D 비행 슈팅 게임 모작 
+     > https://github.com/gyullo18/Mojak
   * ZombieSurvival : 3D 서바이벌
+     > https://github.com/gyullo18/ZombieSurvival
   * Unirun : 2D 런
+     > https://github.com/gyullo18/UniRun
   * Dodge : 3D 총알피하기
+     > https://github.com/gyullo18/Dodge
 
 - 광주인공지능사관학교 2기 (2021)
