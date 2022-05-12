@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 - 국제 직업전문학교 - Ai 융합 컨텐츠 교육 (2022)
   ### GameDEV
   * Dark Rogue : 할로우 나이트 모작 프로젝트 
-     > 역할 : https://github.com/GameDevelopers/Player 
+     > 프로젝트 : https://github.com/GameDevelopers/DarkRogue
+     > 
+     > 역할 : https://github.com/GameDevelopers/Player
      > 
      > 기술문서 : https://glistening-lake-861.notion.site/AI-9d96f118b28f4110a0e71a6e93106d50
   * Mojak : 2D 비행 슈팅 게임 모작 
