@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 # Career
 - 국제 직업전문학교 - Ai 융합 컨텐츠 교육 (2022)
   ### GameDEV
+  * SULLAE : 3D 공포게임 프로젝트
+     > 팀장 겸 게임 개발
+     > 프로젝트 및 기술문서 : https://glistening-lake-861.notion.site/2-3e3cb72d0bb14e1091e0a444a8982794
   * Dark Rogue : 할로우 나이트 모작 프로젝트 
      > 프로젝트 : https://github.com/GameDevelopers/DarkRogue
      > 
